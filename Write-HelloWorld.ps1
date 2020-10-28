@@ -34,5 +34,6 @@ workflow Write-HelloWorld {
     )
 
         Write-Output "Hello $Name"
+	Write-Output "Hello $Name once more"
 
 }
